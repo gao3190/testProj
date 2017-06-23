@@ -1,5 +1,0 @@
-hello
-world
-git
-好啊
-可以
